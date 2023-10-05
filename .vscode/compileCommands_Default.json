@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\Source\\Assignment\\Assignment.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\.vscode\\compileCommands_Default\\Assignment.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\Source\\Assignment\\Assignment.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\.vscode\\compileCommands_Default\\Assignment.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\Source\\Assignment\\Assignment.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\.vscode\\compileCommands_Default\\Assignment.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\Source\\Assignment\\AssignmentGameModeBase.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\.vscode\\compileCommands_Default\\Assignment.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\Source\\Assignment\\AssignmentGameModeBase.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\.vscode\\compileCommands_Default\\Assignment.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

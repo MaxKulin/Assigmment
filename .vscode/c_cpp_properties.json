@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "AssignmentEditor Editor Win64 Development (Assignment)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\.vscode\\compileCommands_Assignment.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\K\\Documents\\GitHub\\Assigmment\\Assignment\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
